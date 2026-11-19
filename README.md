@@ -1,5 +1,9 @@
 # Getting Started with make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/MuhamadRifansyah/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/MuhamadRifansyah/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+
 > **Start here:** sign up with my referral link — [https://make.fun/r/1fc9hzy4](https://make.fun/r/1fc9hzy4) (referral code: `1fc9hzy4`)
 >
 > It costs nothing, takes two minutes, and supports the person who wrote this guide.
